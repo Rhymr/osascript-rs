@@ -1,3 +1,11 @@
+![Crates.io Version](https://img.shields.io/crates/v/osascript-rs)
+
+#### Cargo:
+
+```bash
+cargo add osascript-rs
+```
+
 #### Usage:
 
 ```rust
