@@ -1,3 +1,8 @@
+# osascript-rs
+
+Run AppleScript from Rust with an `applescript!` macro: the script is checked
+at compile time and executed through `osascript`. macOS only.
+
 ![Crates.io Version](https://img.shields.io/crates/v/osascript-rs)
 
 #### Cargo:
